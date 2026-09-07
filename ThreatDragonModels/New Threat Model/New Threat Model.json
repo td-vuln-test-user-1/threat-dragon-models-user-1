@@ -1,0 +1,32 @@
+{
+  "version": "2.6.2",
+  "release_version": "asdf",
+  "released_at": "",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "test",
+    "description": "asdfasdf",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "asdf"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "test",
+    "threatTop": 0
+  }
+}
